@@ -4,6 +4,6 @@
 
 *Don't have a TRMNL yet? Use code `vimwtf` for $15 off at [usetrmnl.com](https://usetrmnl.com/?ref=vimwtf).*
 
-![Your Outie is gentle.](screenshot.png)
+![Your Outie is gentle.](/screenshot.png)
 
 *Note: this is a downstream/push mirror of [git.vim.wtf/wq/trmnl-lumon-wellness](https://git.vim.wtf/wq/trmnl-lumon-wellness).*
