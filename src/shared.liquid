@@ -1,0 +1,24 @@
+{% assign min = 1 %}
+{% assign max = facts | size %}
+{% assign diff = max | minus: min %}
+{% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
+
+
+<div class="layout">
+  <div class="columns">
+    <div class="column">
+      <div class="markdown gap--large">
+        <div class="value text--center">
+          {{ facts[randomNumber] }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="title_bar">
+  <img class="image" src="https://res.jwq.lol/img/lumon.svg">
+  <span class="title">{{ trmnl.plugin_settings.instance_name }}</span>
+  <span class="instance">Enjoy each fact equally.</span>
+</div>
