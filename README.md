@@ -4,5 +4,5 @@
 
 *Don't have a TRMNL yet? Use code `vimwtf` for $15 off at [usetrmnl.com](https://usetrmnl.com/?ref=vimwtf).*
 
-![Your Outie is gentle.](screenshot.png)
+![Your Outie is a friend to children and to the elderly and the insane.](screenshot.png)
 
