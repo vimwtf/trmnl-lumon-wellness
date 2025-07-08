@@ -13,6 +13,6 @@ custom_fields:
   field_type: author_bio
   description: Welcome to the Lumon Industries Wellness Center. Please try to enjoy each fact equally, and not show preference for any over the others.
   github_url: https://github.com/vimwtf/trmnl-lumon-wellness
-  learn_more_url: https://severance.wiki/wellness_facts
+  learn_more_url: https://buffer.vim.wtf/lumon-wellness-plugin-for-trmnl/
 name: Lumon Wellness
 refresh_interval: 1440
